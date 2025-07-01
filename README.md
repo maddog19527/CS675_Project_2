@@ -9,9 +9,9 @@ Project #2 for CS675-Introduction to Data Science
 
 bank-additional-full.csv - initial dataset
 
-clean.csv - one-hot encoded dataset, used for 
+clean.csv - one-hot encoded dataset, used for Linear Regression, Gaussian Naive Bayes and Random Forest
 
-labeled.csv - label-encoded dataset, used for 
+labeled.csv - label-encoded dataset, used for XGBoost, KNN and Decision Trees
 
 Data_Cleaning.ipynb - EDA, Data Cleaning and Feature Importance information
 
