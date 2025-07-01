@@ -67,11 +67,11 @@ Evaluation Metrics:
 
 ## Metrics
 
-Best Performing Model:
+Best Performing Model: Gaussian Naives Bayes
 
 
 
-Libraries used:
+Libraries used: scikit-learn, NumPy, Pandas, SKLearn
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
