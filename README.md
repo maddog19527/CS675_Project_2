@@ -11,7 +11,7 @@ bank-additional-full.csv - initial dataset
 
 clean.csv - one-hot encoded dataset, used for 
 
-labeled.csv - label-encoded dataset, used for
+labeled.csv - label-encoded dataset, used for 
 
 Data_Cleaning.ipynb - EDA, Data Cleaning and Feature Importance information
 
@@ -31,7 +31,7 @@ Target: Yes or No to subscription
 
 -Normalized Data
 
--Reduced Dimensionality of features demonstrating signficiant multicollinearity
+-Reduced Dimensionality of features demonstrating significant multicollinearity
 
 -Determined prescriptive features
 
